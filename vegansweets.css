@@ -1,0 +1,420 @@
+@media only screen and (max-width: 992px){}
+
+.topContainer{
+    position: absolute;
+    width: 1440px;
+    height: 819px;
+    left: 0px;
+    top: 0px;
+    border-radius: 26px;
+    background: url("https://my.tastyketoo.com/up1-3cookbooks/images/mobile-bg.jpg"),linear-gradient(0deg, #E00083 -50%, rgba(255, 255, 255, 0) 50.91%), #4568F2;
+    padding: 10px 0;
+    background-position-y: left;
+    box-sizing: border-box;
+    display: block;
+}
+
+
+.textForPurchaseContainer{
+position: absolute;
+width: 1062px;
+height: 622px;
+left: 189px;
+top: 196px;
+
+/* White - #FFFFFF */
+
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+border-radius: 8px;
+}
+
+.textForPurchase{
+    position: absolute;
+width: 1040px;
+height: 314px;
+left: 0px;
+top: 10px;
+border-left: 10px solid white ;
+
+background: linear-gradient(334.15deg, #5F7DF4 30.67%, #0033FF 114.73%), #4568F2;
+box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.18), inset 0px 4px 41px rgba(0, 0, 0, 0.2);
+}
+
+h3{
+    color: blanchedalmond;
+}
+
+h1{
+    position: absolute;
+width: 1029px;
+height: 62px;
+left: 14px;
+top: 15px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 65px;
+text-align: center;
+
+/* White - #FFFFFF */
+
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+h2{
+    position: absolute;
+    width: 1029px;
+    height: 44px;
+    left: 14px;
+    top: 100px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+
+    /* identical to box height */
+
+    text-align: center;
+
+    /* White - #FFFFFF */
+
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+svg.step {
+    position: absolute;
+    width: 1083px;
+    height: 113px;
+    left: 194px;
+    top: 70px;
+    
+}
+
+.contentOne{
+    position: absolute;
+    width: 1001px;
+    height: 69px;
+    left: 220px;
+    top: 545px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #252525;
+
+}
+
+.contentTwo{
+    position: absolute;
+    width: 998px;
+    height: 96px;
+    left: 223px;
+    top: 633px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 48px;
+    text-align: center;
+
+    color: #252525;
+
+    text-shadow: 0px 4px 0px rgba(0, 0, 0, 0.03);
+}
+
+svg.debbie{
+    position: absolute;
+    width: 82.11px;
+    height: 82.11px;
+    left: 679px;
+    top: 790px;
+
+}
+
+.debbieIntro{
+    position: absolute;
+    width: 426px;
+    height: 33px;
+    left: 507px;
+    top: 890px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+/* identical to box height */
+
+    text-align: center;
+
+    color: #252525;
+
+}
+
+.debbieIntroTwo{
+    position: absolute;
+    width: 992px;
+    height: 297px;
+    left: 229px;
+    top: 950px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #252525;
+
+}
+
+p.p2{
+    color: #4568F2;
+}
+
+.now{
+    position: absolute;
+    width: 89px;
+    height: 33px;
+    left: 677px;
+    top: 1300px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #252525;
+
+}
+
+.imageContainer{
+    position: absolute;
+    width: 1062px;
+    height: 234px;
+    left: 189px;
+    top: 1350px;
+    background: #FAFAFA;
+}
+
+.leftImg{
+    position: absolute;
+    width: 208px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+
+/* Gradient */
+
+background: linear-gradient(111.08deg, #E00083 -46.56%, rgba(255, 255, 255, 0) 63.91%), #4568F2;
+}
+
+
+
+.leftImg p.rightPara{
+    position: absolute;
+width: 774px;
+height: 165px;
+left: 250px;
+top: 0px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+
+color: #252525;
+}
+
+.pThree{
+    position: absolute;
+width: 1062px;
+height: 474px;
+left: 189px;
+top: 1591px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+
+color: #252525;
+
+}
+
+svg.warningImg{
+    position: absolute;
+width: 998px;
+height: 64px;
+left: 223px;
+top: 2098px;
+
+/* Purple - #4568F2 */
+
+background: #4568F2;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.15);
+border-radius: 8px;
+}
+
+h4.disclaimer{
+    position: absolute;
+width: 711px;
+height: 33px;
+left: 400px;
+top: 2080px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 33px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* White - #FFFFFF */
+
+color: #FFFFFF;
+text-shadow: 0px 4px 0px rgba(0, 0, 0, 0.03);
+}
+
+.containerThree{
+    position: absolute;
+width: 1062px;
+height: 329.5px;
+left: 189px;
+top: 2170px;
+
+background: #FAFAFA;
+
+}
+
+.containerThree > p.totalVegan{
+    /* position: absolute; */
+width: 1029px;
+height: 130px;
+left: 50px;
+top: 2193px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 65px;
+text-align: center;
+text-transform: uppercase;
+
+/* Pink - #E00083 */
+
+color: #E00083;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+
+}
+
+.threeMoreBooks{
+width: 998px;
+height: 84px;
+left: 223px;
+top: 2338px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 31px;
+line-height: 42px;
+text-align: center;
+
+color: #252525;
+
+text-shadow: 0px 4px 0px rgba(0, 0, 0, 0.03);
+
+margin-top: 20px;
+}
+
+.booksInfo{
+    position: absolute;
+    width: 861px;
+    height: 132px;
+    left: 70px;
+    top: 700px;
+
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #4F4F4F;
+
+
+}
+
+.footerOne{
+    position: absolute;
+    width: 394px;
+    height: 44px;
+    left: 523px;
+    top: 3060px;
+    
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 44px;
+    /* identical to box height */
+    
+    text-align: center;
+    text-transform: capitalize;
+    
+    /* White - #FFFFFF */
+    
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+
+    background: linear-gradient(180deg, #C8107B -41.88%, rgba(255, 255, 255, 0) 182.5%), #FB0094;
+border-radius: 8px;
+}
+
+
+
+.booksImg{
+position: absolute;
+width: 751px;
+height: 475px;
+left: 320px;
+top: 400px;
+}
+@media only screen and (max-width: 992px){
+img{
+    position: absolute;
+width: 159px;
+height: 159px;
+left: 397px;
+top: 1336px;
+
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+}
